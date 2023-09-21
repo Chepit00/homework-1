@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Big img set as background */
 .hero {
     height: 800px;
     width: 100%;
@@ -143,6 +144,7 @@ p {
     color: #ffffff;
 }
 
+/* Blocks surrounding content */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -165,6 +167,7 @@ p {
     max-height: 200px;
 }
 
+/* setting the img height */
 .online-reputation-management img {
     max-height: 200px;
 }
